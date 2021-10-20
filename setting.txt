@@ -1,3 +1,3 @@
-username=
-password=
-server=
+username=jk2w
+password=Shinkun2000
+server=ap
